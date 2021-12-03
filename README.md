@@ -4,7 +4,7 @@
 
 Here you can find the source code of the project along with side assets.
  
-It is possible to view the deployed HORISEON website at [this link](https://danlo-byte.github.io/Horiseon_search-engines-optimzation/) 
+It is possible to view the deployed HORISEON website at [this link](https://danlo-byte.github.io/Horiseon-SEO-Code_Refactoring/) 
 
 ## Company Query
 
